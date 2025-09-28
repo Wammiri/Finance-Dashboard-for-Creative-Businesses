@@ -24,8 +24,10 @@ It’s built in **Google Sheets/Excel**, lightweight, and easy to adapt.
 ## Screenshots
 Here’s a preview of the dashboard in action:  
 
-![Dashboard Preview](assets/dashboard1.png)  
-![Expense Funnel](assets/dashboard2.png)  
+![Business Dashboard Preview](<img width="2087" height="951" alt="assetsdashboard1" src="https://github.com/user-attachments/assets/ee541aa1-e122-47b7-87c6-093a23711d9b" />
+)  
+![Project Dashboard Preview](<img width="2085" height="951" alt="assetsdashboard2" src="https://github.com/user-attachments/assets/fda2a4e3-eb31-497c-af92-7831b7b9d89c" />
+)  
 
 ---
 
